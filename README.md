@@ -43,7 +43,7 @@ This Tableau project is organized into dashboards, aligned with one of the resea
 ## 🗂️ Files Included
 
 - `tableau_story.pdf` - tableau dashboard screenshots
-- `ST2187_coursework_dataset_2022-23.csv` – original dataset used
+- `dataset.csv` – original dataset used
 - `project_summary_report.pdf` – PDF write-up including key visuals and insights
 - `README.md` – this file
 
